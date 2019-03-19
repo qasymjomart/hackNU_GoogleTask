@@ -1,9 +1,29 @@
-#HACKNU: Google Task
+## HACKNU hackaton 16-17 March, 2019: Google Task
 
 > The essense of this task is as follows:
 > You are given a set of 6 different pictures and input text related to one this picture. 
 > Task is to find which picture belongs to that text
 > Output is written in the output file
+
+**For example:**
+
+<img src="https://github.com/qasymjomart/hackNU_GoogleTask/blob/master/images/21/1.jpg" width="250" height="250">
+
+<img src="https://github.com/qasymjomart/hackNU_GoogleTask/blob/master/images/21/2.jpg" width="200" height="250">
+
+<img src="https://github.com/qasymjomart/hackNU_GoogleTask/blob/master/images/21/3.jpg" width="250" height="250">
+
+<img src="https://github.com/qasymjomart/hackNU_GoogleTask/blob/master/images/21/4.jpg" width="250" height="250">
+
+<img src="https://github.com/qasymjomart/hackNU_GoogleTask/blob/master/images/21/5.jpg" width="200" height="250">
+
+<img src="https://github.com/qasymjomart/hackNU_GoogleTask/blob/master/images/21/6.jpg" width="250" height="250">
+
+**Input text:**
+A few animals might find it funny to see a goat being fed.
+
+**Answer:** 1 (1st image)
+
 
 ## Text images matching solution for problem from Google in HackNU international hackathon.
 
