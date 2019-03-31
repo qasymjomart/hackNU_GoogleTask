@@ -1,7 +1,7 @@
 ## HACKNU hackaton 16-17 March, 2019: Google Task
 
 > The essense of this task is as follows:
-> You are given a set of 6 different pictures and input text related to one this picture. 
+> You are given a set of 6 different pictures and input text (sentence) related to one the below six pictures. 
 > Task is to find which picture belongs to that text
 > Output is written in the output file
 
